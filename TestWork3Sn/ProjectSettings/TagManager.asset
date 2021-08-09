@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RIGHT
+  - LEFT
+  - MIDDLE
+  - Score
+  - Bonus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Pink
+  - Green
+  - Blue
+  - Bonus
+  - PinkColorLine
+  - GreenColorLine
+  - BlueColorLine
+  - Player
+  - Border
+  - Obstruction
+  - Finish
+  - RedColorLine
+  - BlackColorLine
+  - BrownColorLine
+  - YellowColorLine
+  - Magn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
